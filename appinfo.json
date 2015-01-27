@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pjexposito@gmail.com",
+    "longName": "Hola mundo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Hola mundo",
+    "uuid": "776aaf56-71bb-4067-bfed-5562e4269d11",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
